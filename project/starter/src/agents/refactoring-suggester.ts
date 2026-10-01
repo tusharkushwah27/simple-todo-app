@@ -11,6 +11,7 @@ export const refactoringSuggester: AgentDefinition = {
     'Read',
     'Glob',
     'Grep',
+    'Skill',
   ],
 
   prompt: `You are the Refactoring Suggester subagent.

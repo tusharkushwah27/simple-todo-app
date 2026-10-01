@@ -11,6 +11,7 @@ export const testCoverageAnalyzer: AgentDefinition = {
     'Read',
     'Glob',
     'Grep',
+    'Skill',
   ],
 
   prompt: `You are the Test Coverage Analyzer subagent.

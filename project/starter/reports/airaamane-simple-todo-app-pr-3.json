@@ -1,0 +1,32 @@
+{
+  "pullRequest": {
+    "owner": "airaamane",
+    "repo": "simple-todo-app",
+    "number": 3
+  },
+  "fileReviews": [],
+  "summary": {
+    "totalFiles": 0,
+    "overallScore": 0,
+    "criticalIssues": 0,
+    "highPriorityTests": 0,
+    "refactoringOpportunities": 0
+  },
+  "recommendations": [
+    {
+      "priority": "critical",
+      "category": "access",
+      "description": "Unable to access the repository or pull request. The out proper access credentials, or PR #3 does not exist. Please verify: 1) Repository owner and name are correct, 2) Repository is public or appropriate GitHub authentication is configured, 3) Pull request #3 exists in this repository.",
+      "files": []
+    }
+  ],
+  "metadata": {
+    "analyzedAt": "2025-01-10T00:00:00Z",
+    "duration": 31161,
+    "agentVersions": {
+      "code-quality-analyzer": "not-run",
+      "test-coverage-analyzer": "not-run",
+      "refactoring-suggester": "not-run"
+    }
+  }
+}
